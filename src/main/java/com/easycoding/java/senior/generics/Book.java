@@ -47,4 +47,5 @@ public class Book<T> {
         getUperNumber(age);//2
         getUperNumber(number);//3
     }
+
 }

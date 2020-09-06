@@ -6,7 +6,6 @@ import java.util.Iterator;
 
 public class IteratorDemo {
     public static void main(String[] args) {
-
         /**
          * 迭代器操作
          * **/

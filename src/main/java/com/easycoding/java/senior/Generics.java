@@ -1,7 +1,6 @@
 package com.easycoding.java.senior;
 
 import java.util.*;
-
 /**
  * 泛型框架
  *      Java 泛型（generics）是 JDK 5 中引入的一个新特性, 泛型提供了编译时类型安全检测机制，该机制允许程序员在编译时检测到非法的类型。

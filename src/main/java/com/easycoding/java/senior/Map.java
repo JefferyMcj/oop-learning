@@ -1,5 +1,4 @@
 package com.easycoding.java.senior;
-
 /**
  * 
  * **/

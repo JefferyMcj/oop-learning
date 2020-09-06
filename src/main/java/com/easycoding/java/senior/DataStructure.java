@@ -75,7 +75,6 @@ public class DataStructure {
 //                .max((p1,p2) -> p1.getDate().compareTo(p2.getDate()))
 //                .map(object -> object.getDate());
 //        Date date = maxDate.get();
-
         TreeMap<Integer,String> treeMap = new TreeMap<>();
         treeMap.put(1,"诺亚1");
         treeMap.put(2,"诺亚2");

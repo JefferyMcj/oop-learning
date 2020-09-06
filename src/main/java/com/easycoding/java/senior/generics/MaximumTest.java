@@ -36,7 +36,6 @@ public class MaximumTest {
 
     public static void main(String[] args) {
         System.out.println(CompareNumber(3,4,5));
-
         List<String> stringList  = new ArrayList<>();
         stringList.add("易果生鲜");
         getData(stringList);
